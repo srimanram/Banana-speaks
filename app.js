@@ -1,3 +1,4 @@
-var UserName = prompt("Who are you?")
-var Welcome = "ok " + UserName;
-alert(Welcome);
+var btn = document.querySelector(".btn-trans")
+btn.addEventListener("click" , function name() {
+    console.log("clicked");
+})
