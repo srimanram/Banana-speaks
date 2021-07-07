@@ -4,3 +4,10 @@
     height: 12vh;
     width: 90%;
 }
+#output {
+    border: 1px solid;
+    display:block;
+    margin: 1rem;
+    height: 12vh;
+    width: 90%;
+}

@@ -1,8 +1,8 @@
 var btn = document.querySelector(".btn-trans");
 var textint=document.querySelector(".text-int");
-console.log(textint);
+var output=document.querySelector("#output");
+
 function click() {
-    console.log("clicked");
-    console.log("Entered text:", textint.value);
-}
+    output.innerText="banana "+ textint.value;
+};
 btn.addEventListener("click", click)
