@@ -28,7 +28,7 @@ body {
 }
 
 textarea.text-int {
-    width: 120%;
+    width: 125%;
     height: 20vh;
     padding: 0.5rem 0.5rem;
     font-size: medium;
@@ -46,10 +46,11 @@ button {
 
 #output {
     border: 1px solid black;
-    width: 120%;
+    width: 125%;
     height: 20vh;
     padding: 0.5rem 0.5rem;
     background-color: white;
+    border-radius: 0.5rem;
 }
 .img {
     width:85px ;
@@ -65,7 +66,7 @@ button {
     background-color: #1976d2;
     padding: 1rem;
     text-align: center;
-    padding-bottom: 5rem;
+    padding-bottom: 3rem;
 
 }
 footer .h3 {
